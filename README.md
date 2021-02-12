@@ -1,4 +1,4 @@
-# MLProjects
+# Basic Machine Learning and Deep Learning Projects
 
 ## Aim
 This repo contains all the machine learning projects done till now.
@@ -12,3 +12,7 @@ This mini project uses the Winconsin breast cancer dataset. The tensorflow model
 
 ### Tensorflow DNN Regressor for weather data
 Tensorflow based DNN regressor is used to predict the weather conditions. 
+
+### Image compression based on Vector Quantization
+Vector quantization (VQ) is a classical quantization technique from signal processing that allows the modeling of probability density functions by the distribution of prototype vectors. Vector quantization is based on the competitive learning paradigm, so it is closely related to the self-organizing map model. This is highly useful for better image compression. This has been implemented in this program.
+
